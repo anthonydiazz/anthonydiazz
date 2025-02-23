@@ -1,9 +1,5 @@
 Hi, I'm Anthony Diaz 👋
 ----------------------
-Aspiring Data Scientist
------------------------
-
-I'm currently a student at Rutgers University, where I've spent the past two years developing my skills and passion for data science. I enjoy working with data, discovering insights, and using technology to solve real-world problems. I'm actively seeking opportunities in the tech field where I can apply my skills and continue to grow.
 
 ### Projects 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/anthonydiazz/portfolio_projects).
